@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Aug 29 16:42:27 IST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.1.3 - (1557168): instance a816c00e-0156-d600-1ae6-0000035c61b8 
+on database directory F:\MASTS Setup\02-06-2016-Pro\MASTS Server Engine\WebClient\Licence with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+Loaded from file:/F:/MASTS%20Setup/02-06-2016-Pro/MASTS%20Server%20Engine/src/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_05-b13
+user.dir=F:\MASTS Setup\02-06-2016-Pro\MASTS Server Engine
+os.name=Windows 8
+os.arch=amd64
+os.version=6.2
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
